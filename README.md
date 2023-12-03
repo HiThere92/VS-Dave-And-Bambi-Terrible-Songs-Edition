@@ -1,3 +1,6 @@
+# VS Dave And Bambi - Terrible Songs Edition
+A mod by the same guy who made Expunged's Trolling, I already miss making that mod.
+
 **WARNING: SET HXCODEC TO 2.5.1 TO FIX CRASHES WITH EXTRA KEYS WITH LUA SCRIPTS**
 
 # Friday Night Funkin' - JS Engine
